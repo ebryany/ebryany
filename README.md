@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebryany" alt="ebryany" /></a> </p>
 
-- 📝 I regularly write articles on [https://febryanustambing.framer.website/](https://febryanustambing.framer.website/)
+- 📝 I regularly write articles on [https://febryanustambing.framer.website/](https://febryanidh.vercel.app/)
 
 - 💬 Ask me about **Penetration testing, AV evasion techniques, Linux customization, Sysadmin**
 
