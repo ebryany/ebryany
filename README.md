@@ -32,7 +32,7 @@
 | System | Role & Focus | Core Stack |
 | :--- | :--- | :--- |
 | **[Ebrystore](https://ebrystore.my.id)** | Production digital marketplace with automated multi-channel delivery and realtime payment reconciliation. | Supabase • Next.js • PostgreSQL 17 • Caddy |
-| **[ZeroFiveOS Infrastructure](https://github.com/ebryany/zerofiveos-hermes-infrastructure)** | 24/7 multi-agent autonomous runtime with isolated execution environments and evidence-based QA gates. | Python • Node.js • Tailscale • Qdrant • 9Router |
+| **ZeroFiveOS Autonomous Systems** *(Private Core)* | 24/7 multi-agent autonomous runtime with isolated execution environments and evidence-based QA gates. | Python • Node.js • Tailscale • Qdrant • 9Router |
 | **Network Telemetry & Failover** | Production RouterOS watchdog daemon monitoring dual-WAN health, sub-second latency, and Telegram liveboards. | MikroTik RouterOS • Python • WireGuard • Systemd |
 | **KirimCVKu Pipeline** | Autonomous outreach and discovery pipeline for remote DevOps and infrastructure engineering roles. | Python • Composio MCP • Gmail API • Automation |
 
